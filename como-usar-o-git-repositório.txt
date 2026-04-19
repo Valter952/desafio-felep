@@ -1,0 +1,19 @@
+Abra o VScode, em terminal digite node o nome do arquivo e dê enter para executar o arquivo js.
+Exemplo: node index.js 
+Se o arquivo estivesse dentro de uma pasta veja abaixo como ficaria o comando:
+ node src/index.js
+
+ Modifiquei meu projeto e como mando atualização para git?
+
+ digite git add .  para adicionar tudo.
+
+ depois git commit -m " nome que descreve o que você fez" e dê um enter.
+ Agora para enviar para o git hub digite : git push -u origin main e dê enter.
+
+ Deletei ou apaguei meu projeto, arquivo , pasta ou repositório do computador e agora?
+
+ Vá no git hub em repositório no repositório que vc quer recuperar o arquivo que foi apagado da máquina, clique em código vai aparecer o endereço do arquivo copie.
+ Agora abra o VsCode vai em File open folder crie uma pasta, selecione a pasta.
+ Agora abra o terminal digite git clone e cole o endereço https://github.com/Valter952/desafio-felep.git dê um enter, ele começará a clonar.
+
+ Para editar o projeto on-line no github vá no repositório e digite ponto e o editor web abrirá, ele é parecido com o VSCode.
